@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 eye_cascade = cv2.CascadeClassifier('haarcascade_eye.xml')
 
-img = cv2.imread('sample.jpg')
+img = cv2.imread('selfie/18252613_226759981141926_8024533736966062080_n.jpg')
 gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
 faces = face_cascade.detectMultiScale(gray, 1.3, 5)
