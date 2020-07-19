@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import math
 
 
-img = cv2.imread('./moonlanding.png')
+img = cv2.imread('moonlanding.png')
 img = img[:,:,2]
 
 def to_frequency_domain(image):
