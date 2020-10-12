@@ -1,7 +1,7 @@
 # ENGI-7854-9804-Image-Processing-Appl
 Image processing techniques use filters to enhance an image. Their main applications are to transform the contrast, brightness, resolution and noise level of an image. Contouring, image sharpening,
 
-## Final Project ![Screenshot_16](https://github.com/wohhie/ENGI-7854-9804-Image-Processing-Appl/tree/master/project)
+## Final Project [(click here)](https://github.com/wohhie/ENGI-7854-9804-Image-Processing-Appl/tree/master/project)
 Instagram is one of the famous and fast-growing photos and videos sharing social media platform. There
 are plenty of ways to search for pictures on Instagram, but one of the most common methods of using is
 'hashtag.' There are no rules for hashtag; that is why most of the time, the hashtag does not match with
